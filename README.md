@@ -30,7 +30,7 @@ Before you get started, make sure you have the following tools and software inst
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/medium-clone.git
+   git clone https://github.com/codekaito/nextjs-medium.git
    cd medium-clone
    ```
 
