@@ -7,7 +7,7 @@ const Hero = () => {
         <h1 className='text-6xl max-w-xl font-serif'>
             <span className='underline decoration-black decoration-w-4 hover:bg-green-600'>Medium</span> 
             {" "}is a place to write, read, and connect.</h1>
-        <h2 className=''>I's easy and free to post your thinking on any topic and connect with millions of readers..</h2>
+        <h2 className=''>It's easy and free to post your thinking on any topic and connect with millions of readers.</h2>
       </div>
 
       <img className='hidden md:inline-flex h-32 lg:h-full' src='https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png' /> 
