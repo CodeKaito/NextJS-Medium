@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { medium } from '../app/assets/index'
+import { medium } from '../pages/assets/index'
 import Image from 'next/image'
 
 const Header = () => {
