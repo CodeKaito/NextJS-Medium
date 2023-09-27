@@ -1,1 +1,2 @@
-![front](https://github.com/CodeKaito/Nextjs-Medium/assets/57111980/4b2cc49b-c3cf-43ee-9753-4c1c80c9f777)
+![image](https://github.com/CodeKaito/Nextjs-Medium/assets/57111980/aef07075-be3a-48aa-84ce-7a5e3a638566)
+
