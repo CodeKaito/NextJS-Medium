@@ -31,7 +31,7 @@ Before you get started, make sure you have the following tools and software inst
 
    ```bash
    git clone https://github.com/codekaito/nextjs-medium.git
-   cd medium-clone
+   cd nextjs-medium
    ```
 
 2. Install project dependencies:
